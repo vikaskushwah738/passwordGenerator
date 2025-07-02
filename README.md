@@ -4,7 +4,7 @@
 
 A modern password generator built with React that uses all the core React hooks — `useState`, `useEffect`, `useRef`, and `useCallback`. This responsive tool allows users to customize password length, include numbers and symbols, and copy the generated password to their clipboard with ease.
 
-![screenshot](images/photo.png) <!-- Add a screenshot if you want -->
+
 
 ---
 
@@ -38,3 +38,8 @@ git clone https://github.com/your-username/react-password-generator.git
 cd react-password-generator
 npm install
 npm run dev
+
+local : http://localhost:5173/
+
+
+![screenshot](images/photo.png) <!-- Add a screenshot if you want -->
