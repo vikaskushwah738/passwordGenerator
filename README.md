@@ -41,5 +41,5 @@ npm run dev
 
 local : http://localhost:5173/
 
-
-![screenshot](images/photo.png) <!-- Add a screenshot if you want -->
+images
+![screenshot](/images/photo.png) <!-- Add a screenshot if you want -->
