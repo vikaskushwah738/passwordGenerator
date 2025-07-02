@@ -39,7 +39,11 @@ cd react-password-generator
 npm install
 npm run dev
 
+```
+
 local : http://localhost:5173/
+
+---
 
 ## 📦 Screenshot
 
