@@ -47,4 +47,4 @@ local : http://localhost:5173/
 
 ## 📦 Screenshot
 
-![screenshot](public\photo.png) 
+![screenshot](https://res.cloudinary.com/dfbm8in4c/image/upload/v1751491741/photo_nnv3eq.png) 
