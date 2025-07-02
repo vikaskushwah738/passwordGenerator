@@ -47,4 +47,4 @@ local : http://localhost:5173/
 
 ## 📦 Screenshot
 
-![screenshot](images\photo.png) 
+![screenshot](public\photo.png) 
